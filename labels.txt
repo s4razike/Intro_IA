@@ -1,5 +1,0 @@
-0 piano
-1 guitarra
-2 Bateria
-3 Chelo
-4 Cantante
